@@ -6,6 +6,6 @@ With experience in both academic and applied research settings, I specialize in 
 When I’m not crunching data or coding experiments, I’m exploring app and game development with Python or integrating code with hardware using Raspberry Pi and Arduino.
 
 
-## [Education and Skills](./EducationSkills.md)
+## [Education and Skills](./pages/EducationSkills.md)
 
-## [Projects](./Projects.md)
+## [Projects](./pages/Projects.md)
