@@ -9,4 +9,4 @@ When I’m not crunching data or coding experiments, I’m exploring app and gam
 ## [Education and Skills](./EducationSkills.md)
 
 ## [Projects](./Projects.md)
-[Password Generator](./assets/MadPass.ico)
+[Password Generator](./MadPass.ico)
