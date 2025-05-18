@@ -6,7 +6,7 @@ With experience in both academic and applied research settings, I specialize in 
 When I’m not crunching data or coding experiments, I’m exploring app and game development with Python or integrating code with hardware using Raspberry Pi and Arduino.
 
 
-## [./EducationSkills.md](Education and Skills)
+## [Education and Skills](./EducationSkills.md)
 
 #### Tech & Tools
 * Python (pandas, NumPy, scikit-learn)
@@ -15,3 +15,4 @@ When I’m not crunching data or coding experiments, I’m exploring app and gam
 * Jupyter, Git
 
 ## Projects
+[Password Generator](https://github.com/enl9076/MadPass-Better-Password-Generator/tree/main)
