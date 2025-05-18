@@ -8,11 +8,5 @@ When I’m not crunching data or coding experiments, I’m exploring app and gam
 
 ## [Education and Skills](./EducationSkills.md)
 
-#### Tech & Tools
-* Python (pandas, NumPy, scikit-learn)
-* R (tidyverse, shiny)
-* PsychoPy, labjs
-* Jupyter, Git
-
-## Projects
-[Password Generator](https://github.com/enl9076/MadPass-Better-Password-Generator/tree/main)
+## [Projects](./Projects.md)
+[Password Generator](./assets/MadPass.ico)
