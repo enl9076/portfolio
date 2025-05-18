@@ -1,1 +1,3 @@
-# portfolio
+## About
+## Education and Skills
+## Projects
